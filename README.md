@@ -3,4 +3,4 @@
 Based on angular-cli-heroku by chenkie.
 
 ## Work in progress
-This isn't ready yet.
+This isn't ready yet. Setting up Heroku and ForceJS.
